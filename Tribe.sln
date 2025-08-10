@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tribe", "Tribe\Tribe\Tribe.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tribe.Client", "Tribe\Tribe.Client\Tribe.Client.csproj", "{72FD98C2-1F45-445B-8F7A-F7A5B4BC9DE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{8E870566-633C-4103-A18E-21018C0DD16D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{72FD98C2-1F45-445B-8F7A-F7A5B4BC9DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72FD98C2-1F45-445B-8F7A-F7A5B4BC9DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72FD98C2-1F45-445B-8F7A-F7A5B4BC9DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E870566-633C-4103-A18E-21018C0DD16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E870566-633C-4103-A18E-21018C0DD16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E870566-633C-4103-A18E-21018C0DD16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E870566-633C-4103-A18E-21018C0DD16D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
