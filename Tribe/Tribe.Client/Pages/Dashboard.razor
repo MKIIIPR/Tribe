@@ -1,0 +1,20 @@
+﻿@page "/dashboard"
+@rendermode InteractiveWebAssembly
+
+<MudPopoverProvider />
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+
+<MudTabs Outlined="true" Position="Position.Start" Rounded="true" Border="true"
+         ApplyEffectsToContainer="true" Class="mt-8" PanelClass="pa-6">
+    <MudTabPanel Text="Item One">
+        <MudText>Content One</MudText>
+    </MudTabPanel>
+    <MudTabPanel Text="Item Two">
+        <MudText>Content Two</MudText>
+    </MudTabPanel>
+    <MudTabPanel Text="Item Three">
+        <MudText>Content Three</MudText>
+    </MudTabPanel>
+</MudTabs>
